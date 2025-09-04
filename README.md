@@ -152,7 +152,7 @@ Its clean architecture and design patterns make it highly maintainable and exten
 ## 📊 UML Diagram
 Here’s a UML diagram of the system design:
 
-![UML Diagram](./images/uml_diagram.png)
+![UML Diagram](./images/uml_diagram.jpeg)
 
 ---
 
