@@ -115,13 +115,17 @@ Run `app/database/clear_db.sql` inside pgAdmin or psql.
 
 ## 🚀 Example Usage
 **Step 1:** Login or Register  
-![Login UML](./uml_diagram.png)
+![Login UML](./images/welcome_page.png)
 
 **Step 2:** Add Account(s) to Portfolio  
-![Add Account](./stocks_updated.png)
+![Add Account](./images/dashboard1.png)
+
+![Add Account](./images/account_dashboard.png)
 
 **Step 3:** Add Assets and Visualize Portfolio  
-![Visualization](./pie_chart_updated.png)
+![Visualization](./images/stocks.png)
+
+![Visualization](./images/pie_chart.png)
 
 ---
 
@@ -148,7 +152,7 @@ Its clean architecture and design patterns make it highly maintainable and exten
 ## 📊 UML Diagram
 Here’s a UML diagram of the system design:
 
-![UML Diagram](./uml_diagram.png)
+![UML Diagram](./images/uml_diagram.png)
 
 ---
 
